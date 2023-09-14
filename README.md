@@ -7,6 +7,6 @@
 ```bash
 php artisan migrate  
 php artisan db:seed 
-php artisan serve  ßß
+php artisan serve 
 ```
 
